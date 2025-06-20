@@ -1,3 +1,5 @@
 TimeSeriesImages/
 display/
 models/model_data
+**/__pycache__
+samples/AAA_shapefiles
