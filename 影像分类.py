@@ -22,7 +22,7 @@ def generate_date_labels():
             for month in range(1, 13)]
     return dates[:60]
 
-events = ['Invasion', 'Mowing 1st', 'Mowing 2nd', 'Waterlogging', 'Herbicide control', 'Recurring', 'No change', 'WL_fast']
+events = ['Invasion', 'Mowing 1st', 'Mowing 2nd', 'Waterlogging', 'Herbicide control', 'Recurring', 'WL_fast', 'No change']
 vec_path = '.\\TimeSeriesImages\\SA_region\\SA_extend_0619_SD_JS.shp'
 
 def main(province, model,

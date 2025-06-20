@@ -1,5 +1,7 @@
 TimeSeriesImages/
 display/
 models/model_data
-**/__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
 samples/AAA_shapefiles
